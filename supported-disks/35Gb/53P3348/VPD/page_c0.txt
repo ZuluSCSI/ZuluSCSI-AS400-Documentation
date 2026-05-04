@@ -1,0 +1,11 @@
+Firmware numbers (Seagate) VPD Page:
+  SCSI firmware release number: 09211AEB
+  Servo ROM release number: 2002C849
+  SAP block point numbers (major/minor): 00000000
+  Servo firmware release date: C849
+  Servo ROM release date: 2002
+  SAP firmware release number: 20036071
+  SAP firmware release date: 6071
+  SAP firmware release year: 2003
+  SAP manufacturing key: 0000
+  Servo firmware product family and product family member: 1A02

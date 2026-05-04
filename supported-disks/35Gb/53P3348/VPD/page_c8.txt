@@ -1,0 +1,2 @@
+Extended Device Identification VPD page length too short=56
+Extended device identification (RDAC) VPD Page:

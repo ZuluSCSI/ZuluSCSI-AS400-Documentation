@@ -1,0 +1,2 @@
+Unit serial number VPD page:
+  Unit serial number: 3HX29QVG000074463D4A

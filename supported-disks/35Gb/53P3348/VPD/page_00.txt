@@ -1,0 +1,14 @@
+Supported VPD pages VPD page:
+  Supported VPD pages [sv]
+  0x3
+  Unit serial number [sn]
+  Implemented operating definition (obsolete) [iod]
+  0xc0
+  0xc1
+  0xc2
+  0xc3
+  0xc4
+  0xc7
+  0xc8
+  0xd1
+  0xd2
