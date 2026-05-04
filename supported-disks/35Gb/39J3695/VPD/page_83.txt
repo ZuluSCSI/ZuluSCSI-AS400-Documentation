@@ -1,0 +1,4 @@
+      << unexpected NAA 5 identifier length: 0x0>>
+Device Identification VPD page:
+  Addressed logical unit:
+    designator type: NAA,  code set: Binary

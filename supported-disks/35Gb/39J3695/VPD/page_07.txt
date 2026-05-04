@@ -1,0 +1,4 @@
+fetching VPD page code=0x07: failed
+fetching VPD page failed
+Only hex output supported
+VPD page code=0x07:
