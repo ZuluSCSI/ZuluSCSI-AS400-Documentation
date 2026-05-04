@@ -1,0 +1,4 @@
+Device Identification VPD page:
+  Addressed logical unit:
+    designator type: NAA,  code set: Binary
+      0x5000cca001c2d703

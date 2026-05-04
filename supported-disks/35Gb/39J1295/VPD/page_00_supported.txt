@@ -1,0 +1,8 @@
+Supported VPD pages VPD page:
+  Supported VPD pages [sv]
+  0x3
+  Unit serial number [sn]
+  Device identification [di]
+  0xc4
+  0xd1
+  0xd2

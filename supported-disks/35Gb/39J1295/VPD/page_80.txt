@@ -1,0 +1,2 @@
+Unit serial number VPD page:
+  Unit serial number: 00000000J3V67NRB
